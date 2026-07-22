@@ -12,7 +12,7 @@ Software Engineer in the making, with a strong foundation in Data Structures & A
 
 ## 🚀 Featured Projects
 
-- **[ContinuAuth]** — Continuous authentication using behavioral biometrics (keystroke dynamics). Built a 3-phase ML framework achieving 2.62% EER with Random Forest and 97.95% accuracy with Extra Trees. *(Group project — see repo README for my individual contribution)*
+- **[ContinuAuth]** — Continuous authentication using behavioral biometrics (keystroke dynamics). Built a 3-phase ML framework achieving 2.62% EER with Random Forest and 97.95% accuracy with Extra Trees. *(Group project)*
 - **Sign Language Recognition System** — Real-time ASL gesture recognition using CNN (96% accuracy on 29 classes) with MediaPipe hand tracking and audio output.
 - **[WanderLust]** — Full-stack Airbnb-inspired listing platform (Node.js, Express, MongoDB, Passport.js) with Cloudinary uploads and Mapbox geocoding.
 - **Facial Emotion Recognition & Mental State Estimation** — Compared CNN vs. MobileNetV2 on FER-2013 and CK+ datasets; identified catastrophic forgetting in transfer learning models.
