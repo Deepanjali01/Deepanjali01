@@ -1,4 +1,4 @@
-# Hi, I'm Deepanjali 👋
+# Hi, I'm Deepanjali 
 
 Software Engineer in the making, with a strong foundation in Data Structures & Algorithms and hands-on experience building ML/Computer Vision systems end-to-end — from model development to full-stack deployment.
 
